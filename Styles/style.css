@@ -50,3 +50,93 @@
    width: 635px;
    margin-top: 50px;
 }
+/* features style */
+.features{
+    text-align: center;
+}
+.features h2{
+    margin-top: 175px;
+    font-size: 40px;
+    margin-bottom: 24px;
+}
+.features-titel p{
+  width: 534px;
+  margin: 0 auto;
+  padding-bottom: 48px;
+}
+/* features-images */
+.features-images{
+    max-width: 100%;
+    display: flex;
+    justify-content: space-around;
+    gap: 24px;
+    margin: 0px 80px;
+}
+.features-images img{
+    width: 310px;
+    height: 428px;
+}
+.card-img{
+    
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    padding-top: 110px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+  
+.card-one{
+    margin-left: 20px;
+}
+.card-three{
+    margin-right: 20px;
+}
+
+/* Sales style */
+.Sales{
+    margin-top: 225px;
+    display: flex;
+    gap: 150px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.Sales h2{
+    font-size: 40px;
+}
+.Sales h2 span{
+    color: #E55473;
+}
+.Sales p{
+    width: 594px;
+    margin-top: 24px;
+    margin-bottom: 52px;
+}
+
+/* footer */
+.footer{
+    background-color: #111010;
+    text-align: center;
+}
+.footer h2{
+    padding-top: 128px;
+    font-size: 48px;
+    color: #fff;
+    margin-bottom: 24px;
+}
+.footer h2 span{
+    color: #E55473;
+}
+.footer p{
+    color: rgba(255, 255, 255, 0.90);
+    font-size: 18px;
+    width: 625px;
+    margin: 0 auto;
+}
+.copyright{
+    display: block;
+    color: rgba(255, 255, 255, 0.40);
+    font-size: 16px;
+    margin-top: 24px;
+    padding-bottom: 128px;
+}
