@@ -135,6 +135,7 @@
     justify-content: center;
     align-items: center;
     text-align: center;
+    margin-bottom: 128px;
 }
 .Sales h2{
     font-size: 40px;
@@ -148,6 +149,64 @@
     margin-bottom: 52px;
 }
 
+/* instagram style */
+.instagram{
+    max-width: 1440px;
+    margin: 0 auto;
+    text-align: center;
+}
+.instagram h2{
+    font-size: 40px;
+    margin-bottom: 24px;
+}
+.instagram p{
+   max-width: 594px;
+   padding-bottom: 46px;
+   margin: 0 auto;
+}
+/* instagram-images style */
+.instagram-images{
+    display: flex;
+    gap: 24px;
+    margin-bottom: 128px;
+}
+.instagram-images img{
+    max-width: 342px;
+    height: 396px;
+}
+/* clients style */
+.clients{
+    max-width: 1440px;
+    margin: 0 auto;
+}
+/* clients-text style */
+.clients-text{
+    text-align: center;
+}
+.clients-text h2{
+    font-size: 40px;
+    margin-bottom: 32px;
+}
+.clients-text p{
+    max-width: 594px;
+    margin: 0 auto;
+}
+.client-images{
+    display: flex;
+    justify-content: space-around;
+    gap: 24px;
+    text-align: center;
+    margin-top: 50px;
+    padding-bottom: 128px;
+}
+.client-images img{
+    max-width: 342px;
+    height: 396px;
+}
+.span{
+    margin-top: 24px;
+    font-size: 20px;
+}
 /* footer */
 .footer{
     background-color: #111010;
