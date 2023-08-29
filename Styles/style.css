@@ -203,8 +203,8 @@
     max-width: 342px;
     height: 396px;
 }
-.span{
-    margin-top: 24px;
+.client-images span{
+    margin-top: 32px;
     font-size: 20px;
 }
 /* subscribe section style */
@@ -212,7 +212,7 @@
     max-width: 1440px;
     height: 449px;
     margin: 0 auto;
-    background: url(/images/Rectangle\ 9.png);
+    background: url(/images/subscirbe.png);
     text-align: center;
 }
 .subscribe h2{
