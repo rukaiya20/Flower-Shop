@@ -207,10 +207,35 @@
     margin-top: 24px;
     font-size: 20px;
 }
+/* subscribe section style */
+.subscribe{
+    max-width: 1440px;
+    height: 449px;
+    margin: 0 auto;
+    background: url(/images/Rectangle\ 9.png);
+    text-align: center;
+}
+.subscribe h2{
+    padding-top: 122px;
+    font-size: 40px;
+    margin-bottom: 24px;
+}
+.subscribe input{
+    width: 700px;
+    height: 64px; 
+    margin-top: 48px;
+    padding-left: 22px;
+    margin-right: 16px;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 16px;
+    font-weight: 400;
+
+}
 /* footer */
 .footer{
     background-color: #111010;
     text-align: center;
+    margin-top: 128px;
 }
 .footer h2{
     padding-top: 128px;
