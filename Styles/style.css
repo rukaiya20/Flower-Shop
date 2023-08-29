@@ -212,7 +212,7 @@
     max-width: 1440px;
     height: 449px;
     margin: 0 auto;
-    background: url(/images/subscirbe.png);
+    background-image: url(/images/subscribe.png);
     text-align: center;
 }
 .subscribe h2{
